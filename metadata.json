@@ -1,0 +1,6 @@
+{
+  "name": "Mì Online Simulator",
+  "description": "Virtual noodle cooking simulation combined with restaurant management and online multiplayer modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
